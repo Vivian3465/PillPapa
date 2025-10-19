@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pill Papa AI",
+  "description": "An intelligent medicine management application named Pill Papa AI. Users can input their medicine by name or by taking a picture. The app provides detailed facts, interaction warnings, and dosage reminders. It also features an AI chatbot for any medication-related questions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
